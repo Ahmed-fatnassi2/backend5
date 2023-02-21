@@ -1,0 +1,29 @@
+{
+    "development": {
+        "username": "userapp",
+        "password": "admin",
+        "database": "projet_stage",
+        "host": "localhost",   
+        "port": "3306",
+        "dialect": "mysql"
+     
+    },
+    "test": {
+        "username": "userapp",
+        "password": "admin",
+        "database": "database_test",
+        "host": "localhost",
+         "port": "3306",
+        "dialect": "mysql"
+       
+    },
+    "production": {
+        "username": "userapp",
+        "password": "admin",
+        "database": "database_production",
+        "host": "localhost",
+        "port": "3306",
+        "dialect": "mysql"
+
+    }
+}
